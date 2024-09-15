@@ -1,9 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
   <diagram name="Page-1" id="-Bs25DlrWSGhTRmyuu-h">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q08tnnBmQ30W21erficZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-13" target="q08tnnBmQ30W21erficZ-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="430" width="28.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="95" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-13" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-11" value="Пін код правильний" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-18" value="Пін код не правильний" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-19" target="q08tnnBmQ30W21erficZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-19" value="Спробувати заново" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304.38" y="570" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-24" target="q08tnnBmQ30W21erficZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-24" value="Ввести пін код" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-25" target="q08tnnBmQ30W21erficZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-25" value="Вставити карту" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-30" target="q08tnnBmQ30W21erficZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-30" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.75" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-41" value="Пін код правильний" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="650" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-43" target="q08tnnBmQ30W21erficZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-43" value="Ввести суму видання грошей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="425" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-44" target="q08tnnBmQ30W21erficZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-44" value="Піти додому" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-46" target="q08tnnBmQ30W21erficZ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-46" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-49" value="Грошей не достатньо" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="728" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-52" value="Грошей вистачає" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="798" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-53" target="q08tnnBmQ30W21erficZ-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-53" value="Забрати гроші" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="645" y="870" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q08tnnBmQ30W21erficZ-55" target="q08tnnBmQ30W21erficZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-55" value="Вийняти картку" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385" y="870" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q08tnnBmQ30W21erficZ-59" value="Пін код не правильний" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="638" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
