@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="ToFxrHDPyUaxgMYOGWLu">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-6" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iHiUvp5Axz9ECt2CZicJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-8" target="iHiUvp5Axz9ECt2CZicJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-8" value="Вийти з підїзду" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-11" target="iHiUvp5Axz9ECt2CZicJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-11" value="Піти в магазин" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-13" target="iHiUvp5Axz9ECt2CZicJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-13" value="Піти до полиці з хлібом" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-15" value="Взяти картку чи гроші" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-16" target="iHiUvp5Axz9ECt2CZicJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="281" y="565" />
+              <mxPoint x="281" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-16" target="iHiUvp5Axz9ECt2CZicJ-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-20" value="Хлібу нема в наявності" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="518" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-21" value="Хліб є" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-22" target="iHiUvp5Axz9ECt2CZicJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-22" value="Піти додому" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-25" target="iHiUvp5Axz9ECt2CZicJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-25" value="Взяти Хліб" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="545" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-26" target="iHiUvp5Axz9ECt2CZicJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-26" value="Розплатитися на касі" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHiUvp5Axz9ECt2CZicJ-30" target="iHiUvp5Axz9ECt2CZicJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHiUvp5Axz9ECt2CZicJ-30" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
