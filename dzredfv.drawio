@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="n2VZodYZI8fAilJX40TP">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-4" target="KdwQoG4lKh0HO_5XegPW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-4" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-5" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-6" target="KdwQoG4lKh0HO_5XegPW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-6" value="Треба здати 3 лаби" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-7" target="KdwQoG4lKh0HO_5XegPW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-7" value="Треба здати курсову роботу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-8" target="KdwQoG4lKh0HO_5XegPW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-8" value="Треба здати іспит" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="470" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-10" target="KdwQoG4lKh0HO_5XegPW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-14" value="Студент здав 3 лаби" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="265" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-15" value="Студент не здав 3 лаби" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-16" target="KdwQoG4lKh0HO_5XegPW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-16" value="Недопуск до курсової" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="225" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-20" target="KdwQoG4lKh0HO_5XegPW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-20" target="KdwQoG4lKh0HO_5XegPW-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-24" target="KdwQoG4lKh0HO_5XegPW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-24" value="Курс не пройдений" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="735" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-26" value="Курсова не здана" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="368" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-27" value="Студент здав курсову" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="425" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-28" target="KdwQoG4lKh0HO_5XegPW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-28" value="Недопуск до іспиту" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="385" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-33" target="KdwQoG4lKh0HO_5XegPW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-33" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-38" value="Студент не здав іспит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="568" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdwQoG4lKh0HO_5XegPW-41" target="KdwQoG4lKh0HO_5XegPW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdwQoG4lKh0HO_5XegPW-41" value="Студент здав іспит" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="670" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
